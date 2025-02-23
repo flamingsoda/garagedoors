@@ -1,0 +1,6 @@
+name=Simple Garage Doors
+poster=poster.png
+id=GarageDoors
+description=Adds the ability to craft garage doors.
+tiledef=GarageDoors 6987
+pack=GarageDoors

@@ -1,0 +1,4 @@
+Tooltip_EN = {
+  Tooltip_Small_Rolling_Garage_Door = "Small Garage Door",
+  Tooltip_Large_Rolling_Garage_Door = "Large Garage Door",
+}

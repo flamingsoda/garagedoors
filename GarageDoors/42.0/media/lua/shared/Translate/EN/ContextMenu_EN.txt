@@ -1,0 +1,8 @@
+ContextMenu_EN = {
+  ContextMenu_GarageDoors = "Build Garage Door",
+  ContextMenu_GarageDoors_Small = "Small Garage Door",
+  ContextMenu_GarageDoors_Large = "Large Garage Door",
+  ContextMenu_Garage_Doors = "Garage Door",
+  ContextMenu_Small_Rolling_Garage_Door = "Small Garage Door",
+  ContextMenu_Large_Rolling_Garage_Door = "Large Garage Door",
+}
